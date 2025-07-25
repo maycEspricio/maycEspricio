@@ -15,6 +15,6 @@
 
 ## 📘 **Sobre mim**
 Sou instrutor de programação e compartilho conhecimento adquiridos.  
-Gosto de **F1 🏎️**, filosofia e teologia, e acredito que **ensinar é a melhor forma de aprender**.  
+Gosto de **F1 🏎️**, filosofia e teologia, e acredito que **ensinar é o melhor método de aprender**.  
 
 ---
