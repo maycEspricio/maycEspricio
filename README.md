@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Maycon Espricio!
 
-<!--
-**maycEspricio/maycEspricio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🏫 **Instrutor de Formação Profissional**  
+💻 **Desenvolvedor Full-Stack** | Front-End & Back-End  
+🔍 **Entusiasta de tecnologia e educação**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ **Tecnologias e Ferramentas**
+- **Front-End:** React, HTML, CSS, JavaScript  
+- **Back-End:** Node.js, TypeScript, PHP, C#, Java
+- **Banco de Dados:** SQL Server, MySQL   
+
+---
+
+## 📘 **Sobre mim**
+Sou instrutor de programação e compartilho conhecimento adquiridos.  
+Gosto de **F1 🏎️**, filosofia e teologia, e acredito que **ensinar é a melhor forma de aprender**.  
+
+---
