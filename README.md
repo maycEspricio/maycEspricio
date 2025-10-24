@@ -9,7 +9,7 @@
 ## 🛠️ **Tecnologias e Ferramentas**
 - **Front-End:** React, HTML, CSS, JavaScript  
 - **Back-End:** Node.js, TypeScript, PHP, Python, C#, Java
-- **Banco de Dados:** SQL Server, MySQL, MongoDB   
+- **Banco de Dados:** SQL Server, MySQL, MongoDB, PostgreeSQL   
 
 ---
 
