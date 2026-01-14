@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Maycon Espricio!
+# 👋 Olá, eu sou Maycon Espricio!
 
 👨‍🏫 **Instrutor de Formação Profissional**  
 💻 **Desenvolvedor Full-Stack** | Front-End & Back-End  
