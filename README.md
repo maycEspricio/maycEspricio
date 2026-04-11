@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Maycon Espricio!
+# 👋 Olá!
 
 👨‍🏫 **Instrutor de Formação Profissional**  
 💻 **Desenvolvedor Full-Stack** | Front-End & Back-End  
@@ -82,3 +82,12 @@ Gosto de **F1 🏎️**, filosofia e teologia, e acredito que **ensinar é o mel
 </table>
 
 <br>
+
+<div align="center">
+  <h2>
+    <img src="https://cdn-icons-png.flaticon.com/512/3309/3309960.png" width="25" height="25" alt="Ícone" />
+    Estatísticas do GitHub
+  </h2>
+
+  <img src="https://streak-stats.demolab.com?user=maycEspricio&theme=tokyonight&locale=pt-br" alt="GitHub Streak" />
+</div>
